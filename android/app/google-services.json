@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270135124231",
+    "project_id": "wogg-ecd55",
+    "storage_bucket": "wogg-ecd55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270135124231:android:f13e8660076af11d44a5a2",
+        "android_client_info": {
+          "package_name": "com.example.fitness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270135124231-2mhcoplf7s6tf4uckd2dg8hiaccvm41n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNHgxsh4RO7g2MAM-02ZiyFKkKWcX-I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270135124231-2mhcoplf7s6tf4uckd2dg8hiaccvm41n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
